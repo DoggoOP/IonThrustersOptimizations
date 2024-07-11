@@ -19,4 +19,4 @@ Acknowledgments
 This project was supported by my mentor Shenghui Yang and the WSRP program. Special thanks to Nicolo Monti for his support throughout the process.
 
 ## Contact
-For more information, please visit My Wolfram Community Profile
+For more information, please read my [computational essay](https://community.wolfram.com/groups/-/m/t/3217524)
