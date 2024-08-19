@@ -1,4 +1,4 @@
-# Optimization of Ion Thrusters Using Simulations
+# Optimization of the thrust to power consumption ratio of Ion thrusters through simulations
 This project focuses on the optimization of the thrust-to-power ratio in ion propulsion systems, specifically Gridded Ion Thrusters and Hall Effect Thrusters. The study utilizes advanced computational techniques to develop simulation frameworks that enhance the understanding of ion propulsion mechanisms and contribute to more efficient and reliable ion engines for long-duration space missions and interplanetary exploration.
 
 ## Key Features
